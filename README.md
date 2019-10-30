@@ -1,7 +1,5 @@
 # Codificação de Video Escalável
 
-Trabalho desenvolvido para a disciplina de Fundamentos de Sistemas Multimídia do Mestrado em Ciência da Computação da UFJF.
-
 # O que é codificação escalável de video (SVC)?
 
 ● É a capacidade de extrair fluxo binário total correspondente a um dado conteúdo
